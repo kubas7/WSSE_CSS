@@ -1,5 +1,5 @@
 var statesData = {"type":"FeatureCollection","features":[
-{"type":"Feature","id":"01","properties":{"name":"Włodawski","density":120},"geometry":{"type":"Polygon","coordinates": [
+{"type":"Feature","id":"01","properties":{"name":"Włodawski","zakazenia":120},"geometry":{"type":"Polygon","coordinates": [
     [
       [
         23.056401,
