@@ -1,17 +1,7 @@
-.icon-dziennedane {
-  mask: url(https://image.flaticon.com/icons/svg/17/17538.svg);
-}
-.icon-komunikat {
-  mask: url(https://image.flaticon.com/icons/svg/596/596041.svg);
-}
-.icon {
-  display: inline-block;
+svg {
   width: 70px;
   height: 70px;
-  background: black;
-  mask-size: cover;
 }
-.icon:hover,
-.icon:focus {
-  background: royalblue;
+svg:hover {
+  fill: red;
 }
